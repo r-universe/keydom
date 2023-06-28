@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "AdapSamp"]
 	path = AdapSamp
 	url = https://github.com/cran/AdapSamp
-	shallow = true
-	registered = true
